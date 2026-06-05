@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress Fse | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/wordpress-fse/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/wordpress-fse/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress in 2026: Dead or More Alive Than Ever?</title>
+      <link>https://peoplealsoask.github.io/wordpress-in-2026-still-relevant/</link>
+      <pubDate>Thu, 14 May 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/wordpress-in-2026-still-relevant/</guid>
+      <description>WordPress is not outdated in 2026, but it has evolved. With Full Site Editing, AI plugins, and headless capabilities, it remains a top choice for many, though newer builders like Webflow or Wix Studio offer different strengths.</description>
+    </item>
+  </channel>
+</rss>

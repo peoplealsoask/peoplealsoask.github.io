@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>502 Error | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/502-error/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/502-error/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>502 Bad Gateway Error: Is It You or the Server? Complete 2026 Troubleshooting</title>
+      <link>https://peoplealsoask.github.io/502-bad-gateway-error-your-fault-or-server/</link>
+      <pubDate>Fri, 15 May 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/502-bad-gateway-error-your-fault-or-server/</guid>
+      <description>A 502 Bad Gateway error is never the user&amp;rsquo;s fault — it indicates a communication breakdown between servers. The problem lies with the website&amp;rsquo;s hosting, proxy, or upstream server, not your browser or internet connection.</description>
+    </item>
+  </channel>
+</rss>

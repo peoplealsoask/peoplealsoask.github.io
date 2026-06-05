@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PayPal | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/paypal/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/paypal/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elon Musk: From Coding Prodigy to Tech Titan – The Truth About His Programming Past</title>
+      <link>https://peoplealsoask.github.io/elon-musk-coding-prodigy-history-programming/</link>
+      <pubDate>Sun, 24 May 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/elon-musk-coding-prodigy-history-programming/</guid>
+      <description>Yes, Elon Musk was a coder. He taught himself programming as a child and wrote code for his early ventures like Zip2 and X.com (later PayPal). His coding background shaped his approach to technology and engineering.</description>
+    </item>
+  </channel>
+</rss>

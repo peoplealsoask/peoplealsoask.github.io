@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screenshot Methods | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/screenshot-methods/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/screenshot-methods/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering PC Screenshots: 3 Essential Methods</title>
+      <link>https://peoplealsoask.github.io/how-to-take-screenshot-on-pc/</link>
+      <pubDate>Thu, 28 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/how-to-take-screenshot-on-pc/</guid>
+      <description>To take a screenshot on a PC, use the Print Screen button, Snipping Tool, or Snip &amp;amp; Sketch. These methods allow you to capture your screen with ease.</description>
+    </item>
+  </channel>
+</rss>

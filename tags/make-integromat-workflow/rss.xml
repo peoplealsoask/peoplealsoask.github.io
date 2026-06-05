@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Make (Integromat) Workflow | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/make-integromat-workflow/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/make-integromat-workflow/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Connect Notion Database to Google Calendar: The Complete 2026 Guide</title>
+      <link>https://peoplealsoask.github.io/connect-notion-database-to-google-calendar/</link>
+      <pubDate>Mon, 13 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/connect-notion-database-to-google-calendar/</guid>
+      <description>Connect your Notion database to Google Calendar using Zapier, Make (Integromat), or the unofficial Notion API connector. Automate event creation, updates, and task reminders in minutes.</description>
+    </item>
+  </channel>
+</rss>

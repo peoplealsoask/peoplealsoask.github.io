@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI-Powered Applications | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/ai-powered-applications/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/ai-powered-applications/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking OpenAI API Pricing: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/openai-api-pricing-guide/</link>
+      <pubDate>Wed, 13 May 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/openai-api-pricing-guide/</guid>
+      <description>The OpenAI API offers both free and paid plans, with the free plan allowing for limited usage and the paid plans offering more features and support. The cost of the paid plans varies based on the specific features and usage requirements.</description>
+    </item>
+  </channel>
+</rss>

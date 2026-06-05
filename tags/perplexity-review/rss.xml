@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perplexity Review | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/perplexity-review/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/perplexity-review/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perplexity vs Claude: Which AI Tool Wins in 2026?</title>
+      <link>https://peoplealsoask.github.io/perplexity-vs-claude-which-ai-tool-wins/</link>
+      <pubDate>Fri, 22 May 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/perplexity-vs-claude-which-ai-tool-wins/</guid>
+      <description>Perplexity excels at real-time research with web citations, while Claude specializes in deep reasoning, writing, and data analysis. Choose based on task: use Perplexity for fact-finding and Claude for complex cognitive work.</description>
+    </item>
+  </channel>
+</rss>

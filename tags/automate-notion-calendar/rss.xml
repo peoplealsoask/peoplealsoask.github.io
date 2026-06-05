@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automate Notion Calendar | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/automate-notion-calendar/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/automate-notion-calendar/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Two-Way Sync Notion Calendar and Google Calendar in 2026: The Ultimate Guide</title>
+      <link>https://peoplealsoask.github.io/two-way-sync-notion-calendar-google-calendar-guide/</link>
+      <pubDate>Fri, 01 May 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/two-way-sync-notion-calendar-google-calendar-guide/</guid>
+      <description>Two-way sync between Notion Calendar and Google Calendar synchronizes events bidirectionally, keeping both calendars updated. This is achieved via third-party automation platforms (Zapier, Make) or by using Notion&amp;rsquo;s updated calendar views and Google Calendar API-based services. This guide covers beginner to advanced methods for 2026.</description>
+    </item>
+  </channel>
+</rss>

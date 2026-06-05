@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude 3.5 Sonnet Coding | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/claude-3.5-sonnet-coding/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:47 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/claude-3.5-sonnet-coding/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude 3.5 Sonnet vs GPT-4o for Coding: Which AI Model Wins in 2026?</title>
+      <link>https://peoplealsoask.github.io/claude-3-5-sonnet-vs-gpt-4o-coding-2026/</link>
+      <pubDate>Wed, 06 May 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/claude-3-5-sonnet-vs-gpt-4o-coding-2026/</guid>
+      <description>Claude 3.5 Sonnet offers deeper reasoning for complex coding tasks, while GPT-4o excels in speed and versatility. The best choice depends on your specific coding workflow and language preferences.</description>
+    </item>
+  </channel>
+</rss>

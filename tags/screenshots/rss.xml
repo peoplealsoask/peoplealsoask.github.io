@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screenshots | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/screenshots/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/screenshots/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering the Mystery of Ctrl&#43;Shift&#43;S Screenshots</title>
+      <link>https://peoplealsoask.github.io/where-do-ctrl-shift-s-screenshots-go/</link>
+      <pubDate>Sun, 31 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/where-do-ctrl-shift-s-screenshots-go/</guid>
+      <description>When you press Ctrl+Shift+S, your screenshot is saved to a designated folder, typically the &amp;lsquo;Screenshots&amp;rsquo; folder in your user directory. This shortcut allows for quick and easy screenshot capture and organization.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>502 Gateway Timeout | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/502-gateway-timeout/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/502-gateway-timeout/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>502 Bad Gateway Nginx: The Ultimate Fix Guide for 2026</title>
+      <link>https://peoplealsoask.github.io/502-bad-gateway-nginx-fix-guide/</link>
+      <pubDate>Thu, 23 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/502-bad-gateway-nginx-fix-guide/</guid>
+      <description>A 502 Bad Gateway error in Nginx means the server received an invalid response from an upstream server. Fix it by checking your backend services, firewall settings, and Nginx configuration.</description>
+    </item>
+  </channel>
+</rss>

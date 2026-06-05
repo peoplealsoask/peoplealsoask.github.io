@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai Chatbots | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/ai-chatbots/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/ai-chatbots/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Embed AI Into Your Website: The 2026 Complete Guide</title>
+      <link>https://peoplealsoask.github.io/embed-ai-into-website-guide/</link>
+      <pubDate>Sun, 05 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/embed-ai-into-website-guide/</guid>
+      <description>Embedding AI into your website is now accessible via APIs, no-code tools, and custom models. From chatbots to personalized recommendations, AI enhances functionality and user engagement.</description>
+    </item>
+  </channel>
+</rss>

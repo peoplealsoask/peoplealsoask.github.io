@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Task Management Workflow | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/task-management-workflow/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/task-management-workflow/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notion to Google Calendar Sync: The 2026 Guide to Seamless Task Management</title>
+      <link>https://peoplealsoask.github.io/notion-to-google-calendar-integration-guide/</link>
+      <pubDate>Sun, 26 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/notion-to-google-calendar-integration-guide/</guid>
+      <description>Integrate Notion tasks into Google Calendar using native sync, third-party tools like Zapier, or manual methods. This guide covers step-by-step instructions, best practices, and troubleshooting.</description>
+    </item>
+  </channel>
+</rss>

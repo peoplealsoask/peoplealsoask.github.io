@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress for Beginners | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/wordpress-for-beginners/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/wordpress-for-beginners/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Coding Required: How to Use WordPress Without Writing a Single Line of Code</title>
+      <link>https://peoplealsoask.github.io/use-wordpress-without-coding/</link>
+      <pubDate>Sun, 05 Apr 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/use-wordpress-without-coding/</guid>
+      <description>WordPress is fully usable without coding. With page builders, pre-built themes, and intuitive settings, anyone can create a website. The core software and thousands of plugins require zero code knowledge.</description>
+    </item>
+  </channel>
+</rss>

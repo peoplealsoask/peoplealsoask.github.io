@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website Creation | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/website-creation/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/website-creation/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is WordPress Still Worth It in 2026</title>
+      <link>https://peoplealsoask.github.io/is-wordpress-still-worth-it-in-2026/</link>
+      <pubDate>Thu, 14 May 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/is-wordpress-still-worth-it-in-2026/</guid>
+      <description>WordPress remains a highly relevant and powerful tool for website creation in 2026, offering flexibility, customization, and a vast community of developers and users. Its adaptability to changing web standards and continuous updates ensure it stays competitive.</description>
+    </item>
+  </channel>
+</rss>

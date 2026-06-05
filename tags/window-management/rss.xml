@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Window-Management | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/window-management/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/window-management/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enable Windows Alt&#43;G: A Step-by-Step Guide to Unlocking Productivity</title>
+      <link>https://peoplealsoask.github.io/enable-windows-alt-g/</link>
+      <pubDate>Fri, 15 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/enable-windows-alt-g/</guid>
+      <description>To turn on Windows Alt+G, press the Alt and G keys simultaneously, and follow the on-screen prompts. This shortcut enables the Windows Grid feature, allowing for efficient window management.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publishing | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/publishing/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/publishing/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publishing AI-Generated Books: A Legal Guide for Authors</title>
+      <link>https://peoplealsoask.github.io/publishing-ai-generated-books-legal-guide/</link>
+      <pubDate>Fri, 03 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/publishing-ai-generated-books-legal-guide/</guid>
+      <description>You can legally publish a book written by AI, but copyright and ownership issues apply. AI-generated content raises complex legal questions about authorship and copyright.</description>
+    </item>
+  </channel>
+</rss>

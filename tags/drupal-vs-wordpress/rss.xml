@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drupal vs Wordpress | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/drupal-vs-wordpress/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:47 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/drupal-vs-wordpress/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does NASA Use WordPress? The Surprising Truth About Their Tech Stack</title>
+      <link>https://peoplealsoask.github.io/does-nasa-use-wordpress-tech-stack/</link>
+      <pubDate>Mon, 11 May 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/does-nasa-use-wordpress-tech-stack/</guid>
+      <description>NASA does not primarily use WordPress for its official websites. They rely on custom-built CMS and Drupal for security and scale, but some sub-sites may occasionally use WordPress for specific project pages or blogs.</description>
+    </item>
+  </channel>
+</rss>

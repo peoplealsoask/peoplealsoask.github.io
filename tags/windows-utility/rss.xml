@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows-Utility | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/windows-utility/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/windows-utility/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Snipping Tool: Screenshot Save Location Revealed</title>
+      <link>https://peoplealsoask.github.io/snipping-tool-screenshot-save-location/</link>
+      <pubDate>Wed, 27 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/snipping-tool-screenshot-save-location/</guid>
+      <description>The Snipping Tool saves screenshots in the &amp;lsquo;Screenshots&amp;rsquo; folder by default, accessible via the &amp;lsquo;Pictures&amp;rsquo; folder in Windows. To find or change the save location, navigate to the Snipping Tool settings</description>
+    </item>
+  </channel>
+</rss>

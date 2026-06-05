@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partner API | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/partner-api/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/partner-api/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering REST APIs: The 4 Types Every Developer Must Know in 2026</title>
+      <link>https://peoplealsoask.github.io/mastering-rest-apis-4-types-every-developer-must-know-2026/</link>
+      <pubDate>Mon, 25 May 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/mastering-rest-apis-4-types-every-developer-must-know-2026/</guid>
+      <description>The four types of REST APIs are Public, Private, Partner, and Composite. Public APIs are open to external users, Private APIs are for internal use, Partner APIs are shared with selected business partners, and Composite APIs combine multiple endpoints to perform complex operations.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Server Troubleshooting | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/web-server-troubleshooting/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/web-server-troubleshooting/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does 502 Bad Gateway Mean You&#39;re Blocked? Truth Behind the Error</title>
+      <link>https://peoplealsoask.github.io/does-502-bad-gateway-mean-blocked/</link>
+      <pubDate>Wed, 08 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/does-502-bad-gateway-mean-blocked/</guid>
+      <description>No, a 502 Bad Gateway error does not mean you are blocked. It indicates a communication failure between servers—usually a temporary server-side problem—rather than a client-side block.</description>
+    </item>
+  </channel>
+</rss>

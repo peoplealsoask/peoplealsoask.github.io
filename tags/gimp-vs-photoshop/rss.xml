@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gimp vs Photoshop | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/gimp-vs-photoshop/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:48 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/gimp-vs-photoshop/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is GIMP Really Free? The Ultimate Guide to GIMP’s Pricing in 2026</title>
+      <link>https://peoplealsoask.github.io/is-gimp-really-free-ultimate-guide-2026/</link>
+      <pubDate>Sat, 09 May 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/is-gimp-really-free-ultimate-guide-2026/</guid>
+      <description>Yes, GIMP (GNU Image Manipulation Program) is completely free and open-source software. It has no hidden fees, no paid tiers, and no premium subscriptions. You can download, use, and modify it forever at no cost.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multitasking | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/multitasking/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/multitasking/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking Productivity: The Power of Ctrl Shift &#43; N</title>
+      <link>https://peoplealsoask.github.io/ctrl-shift-n-keyboard-shortcut/</link>
+      <pubDate>Fri, 29 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/ctrl-shift-n-keyboard-shortcut/</guid>
+      <description>Ctrl Shift + N is a keyboard shortcut used to open a new window in a browser or a new file in various applications, enhancing user productivity and multitasking capabilities. This shortcut is widely supported across different software and operating systems.</description>
+    </item>
+  </channel>
+</rss>

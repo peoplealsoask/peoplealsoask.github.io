@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screen Capture | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/screen-capture/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/screen-capture/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Screen Recording Made Easy: A Step-by-Step Guide</title>
+      <link>https://peoplealsoask.github.io/how-to-record-pc-screen/</link>
+      <pubDate>Sun, 10 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/how-to-record-pc-screen/</guid>
+      <description>To record your PC screen, you can use built-in tools like Xbox Game Bar or third-party software like OBS Studio, which offer various features for capturing and editing your screen recordings. For more advanced users, utilizing Screen Recording Software can provide additional functionalities and higher quality outputs.</description>
+    </item>
+  </channel>
+</rss>

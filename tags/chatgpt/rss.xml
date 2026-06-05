@@ -1,0 +1,34 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChatGPT | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/chatgpt/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:47 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/chatgpt/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detecting ChatGPT: A Comprehensive Guide to Identifying AI-Generated Content</title>
+      <link>https://peoplealsoask.github.io/detecting-chatgpt-ai-generated-content/</link>
+      <pubDate>Thu, 30 Apr 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/detecting-chatgpt-ai-generated-content/</guid>
+      <description>To tell if someone used ChatGPT, look for overly formal language, lack of personal touch, and inconsistent tone, as these are common indicators of AI-generated content. Additionally, analyzing the context, grammar, and syntax can help identify potential AI involvement.</description>
+    </item>
+    <item>
+      <title>Unlocking ChatGPT&#39;s Full Potential in Excel</title>
+      <link>https://peoplealsoask.github.io/chatgpt-excel-integration-guide/</link>
+      <pubDate>Tue, 14 Apr 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/chatgpt-excel-integration-guide/</guid>
+      <description>To integrate ChatGPT with Excel, utilize APIs or third-party add-ins that facilitate communication between the two platforms, enabling advanced data analysis and automation. This integration can significantly enhance your workflow by leveraging ChatGPT&amp;rsquo;s AI capabilities within Excel&amp;rsquo;s familiar environment.</description>
+    </item>
+    <item>
+      <title>Unlocking ChatGPT&#39;s Potential: Can It Write Excel Formulas?</title>
+      <link>https://peoplealsoask.github.io/can-chatgpt-write-excel-formulas/</link>
+      <pubDate>Thu, 02 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/can-chatgpt-write-excel-formulas/</guid>
+      <description>ChatGPT can generate simple Excel formulas, but its capabilities are limited by the complexity of the formula and the context provided. With proper guidance, ChatGPT can be a valuable tool for Excel users.</description>
+    </item>
+  </channel>
+</rss>

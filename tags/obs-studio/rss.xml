@@ -1,0 +1,27 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obs Studio | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/obs-studio/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/obs-studio/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Record Your PC Screen with Ease: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/record-pc-screen/</link>
+      <pubDate>Fri, 22 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/record-pc-screen/</guid>
+      <description>To record your PC screen, use the built-in Game Bar or third-party software like OBS Studio or Camtasia, and follow these steps for high-quality recordings. For detailed tutorials, check out our Screen Recording Software guide</description>
+    </item>
+    <item>
+      <title>Screen Recording on Windows 10 with Sound: A Step-by-Step Guide</title>
+      <link>https://peoplealsoask.github.io/screen-recording-windows-10-with-sound/</link>
+      <pubDate>Thu, 14 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/screen-recording-windows-10-with-sound/</guid>
+      <description>To record your screen on Windows 10 with sound, use the Xbox Game Bar or third-party software like OBS Studio or Camtasia. These tools allow you to capture your screen and audio simultaneously, making it ideal for creating tutorials, demos, or presentations.</description>
+    </item>
+  </channel>
+</rss>

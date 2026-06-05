@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced Excel | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/advanced-excel/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/advanced-excel/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Complex Excel Formulas: A Step-by-Step Guide</title>
+      <link>https://peoplealsoask.github.io/writing-complex-excel-formulas/</link>
+      <pubDate>Sun, 03 May 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/writing-complex-excel-formulas/</guid>
+      <description>Writing complex Excel formulas involves combining multiple functions, using proper syntax, and understanding how to reference cells and ranges. With practice and patience, you can master even the most intricate formulas.</description>
+    </item>
+  </channel>
+</rss>

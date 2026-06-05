@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai Art Tools for Game Dev | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/ai-art-tools-for-game-dev/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/ai-art-tools-for-game-dev/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leonardo AI vs Midjourney: Which AI Art Generator Wins in 2026?</title>
+      <link>https://peoplealsoask.github.io/leonardo-ai-vs-midjourney-which-ai-art-generator-wins/</link>
+      <pubDate>Thu, 21 May 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/leonardo-ai-vs-midjourney-which-ai-art-generator-wins/</guid>
+      <description>Leonardo AI and Midjourney are leading AI art generators. Leonardo offers game asset focus, free tier, and fine controls. Midjourney excels in creative, surreal aesthetics with higher community quality. The better choice depends on your specific project needs.</description>
+    </item>
+  </channel>
+</rss>

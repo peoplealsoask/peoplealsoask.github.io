@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elon-Musk-Skills | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/elon-musk-skills/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:47 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/elon-musk-skills/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was Elon Musk a Coder? The Truth Behind His Programming Skills</title>
+      <link>https://peoplealsoask.github.io/was-elon-musk-a-coder/</link>
+      <pubDate>Sun, 24 May 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/was-elon-musk-a-coder/</guid>
+      <description>Elon Musk was indeed a self-taught coder who wrote production code early in his career. He programmed at Zip2, built the first version of X.com&amp;rsquo;s backend, and retains a deep understanding of software architecture, though he rarely codes today.</description>
+    </item>
+  </channel>
+</rss>

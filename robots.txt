@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /tags/
+Sitemap: https://peoplealsoask.github.io/sitemap.xml

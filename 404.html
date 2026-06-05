@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>404 – Page Not Found | People Also Ask</title>
+<style>
+:root{--mn-accent:#0d9e90;--mn-bg:#f8f9fa;--mn-surface:#fff;--mn-border:#e5e7eb;--mn-text:#1a1a2e;--mn-text-muted:#6b7280;--mn-font-display:'Fraunces','Georgia',serif;--mn-font-body:'DM Sans','Segoe UI',system-ui,sans-serif;--mn-gutter:clamp(1rem,4vw,1.5rem);--mn-max-w:1200px}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{font-family:var(--mn-font-body);font-size:16px;line-height:1.75;color:var(--mn-text);background:var(--mn-bg);min-height:100vh;display:flex;flex-direction:column}
+.site-content{flex:1}
+img{max-width:100%;height:auto;display:block}
+a{color:var(--mn-accent);text-decoration:none}
+ul,ol{list-style:none}
+.skip-link{position:absolute;left:-9999px;top:1rem;z-index:9999;background:var(--mn-accent);color:#fff;padding:.5rem 1rem;border-radius:4px}
+.skip-link:focus{left:1rem}
+.mn-container{width:100%;max-width:var(--mn-max-w);margin-inline:auto;padding-inline:var(--mn-gutter)}
+.site-header{position:sticky;top:0;z-index:200;background:var(--mn-surface);border-bottom:1px solid var(--mn-border);box-shadow:0 1px 8px rgba(0,0,0,.07)}
+.mn-header-inner{display:flex;align-items:center;justify-content:space-between;height:60px;gap:1rem}
+.mn-brand{display:flex;align-items:center}
+.mn-brand-text{font-family:var(--mn-font-display);font-size:1.5rem;font-weight:700;color:var(--mn-accent)}
+.mn-nav-list{display:flex;align-items:center;gap:.25rem}
+.mn-nav-link{display:block;padding:.4rem .75rem;font-size:.875rem;font-weight:500;color:var(--mn-text-muted);border-radius:4px}
+.mn-nav-toggle{display:none;flex-direction:column;gap:5px;padding:.5rem;border-radius:4px}
+.mn-bar{display:block;width:22px;height:2px;background:var(--mn-text);border-radius:2px}
+</style>
+<link rel="stylesheet" href="https://peoplealsoask.github.io/assets/css/mundanem.css">
+  <link rel="icon" href="https://peoplealsoask.github.io/favicon.ico">
+</head>
+<body class="page-404">
+<header class="site-header" role="banner">
+  <div class="mn-container mn-header-inner">
+
+    
+    <a class="mn-brand" href="https://peoplealsoask.github.io/" aria-label="People Also Ask – Home"><img src="https://peoplealsoask.github.io/img/logo.svg" alt="People Also Ask" width="140" height="36" loading="eager"></a>
+
+    
+    <button class="mn-nav-toggle" id="mn-nav-toggle"
+            aria-label="Open / close menu" aria-expanded="false" aria-controls="mn-nav-menu">
+      <span class="mn-bar"></span>
+      <span class="mn-bar"></span>
+      <span class="mn-bar"></span>
+    </button>
+
+    
+    <nav id="mn-nav-menu" class="mn-nav" aria-label="Main navigation">
+      <ul class="mn-nav-list">
+
+        <li class="mn-nav-item"><a class="mn-nav-link" href="https://peoplealsoask.github.io/">Home</a></li>
+
+          <li class="mn-nav-item"><a class="mn-nav-link" href="https://peoplealsoask.github.io/about/">About</a></li></ul>
+    </nav>
+  </div>
+</header>
+
+<script>
+(function(){
+  var btn = document.getElementById('mn-nav-toggle');
+  var nav = document.getElementById('mn-nav-menu');
+  if(!btn||!nav) return;
+  btn.addEventListener('click', function(){
+    var open = nav.classList.toggle('mn-nav-open');
+    btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    btn.classList.toggle('mn-is-open', open);
+  });
+  
+  document.addEventListener('click', function(e){
+    if(!btn.contains(e.target) && !nav.contains(e.target)){
+      nav.classList.remove('mn-nav-open');
+      btn.setAttribute('aria-expanded','false');
+      btn.classList.remove('mn-is-open');
+    }
+  });
+})();
+</script>
+<main class="mn-container mn-404" role="main">
+    <div class="mn-404-inner">
+      <div class="mn-404-code" aria-hidden="true">404</div>
+      <h1 class="mn-404-title">Page Not Found</h1>
+      <p class="mn-404-text">Sorry, the page you are looking for does not exist or has been moved.</p>
+      <div class="mn-404-actions">
+        <a class="mn-btn mn-btn-primary" href="https://peoplealsoask.github.io/">← Back to Home</a>
+      </div>
+    </div>
+  </main><footer class="mn-footer" role="contentinfo">
+  <div class="mn-container mn-footer-inner">
+
+    <div class="mn-footer-brand">
+      <a class="mn-brand-text" href="https://peoplealsoask.github.io/">People Also Ask</a><p class="mn-footer-desc">People Also ask and we have answer.</p><p class="mn-footer-author">Ditulis oleh <strong>Fablo</strong> — Digital Content and content wraiter.</p></div>
+
+    <nav class="mn-footer-nav" aria-label="Footer navigation">
+      
+      <div class="mn-footer-col">
+        <h3 class="mn-footer-heading">Information</h3>
+        <ul>
+          <li><a href="https://peoplealsoask.github.io/about/">About</a></li>
+          <li><a href="https://peoplealsoask.github.io/contact/">Contact</a></li>
+          <li><a href="https://peoplealsoask.github.io/privacy-policy/">Privacy Policy</a></li>
+          <li><a href="https://peoplealsoask.github.io/dmca/">DMCA</a></li></ul>
+      </div>
+    </nav>
+
+  </div>
+
+  <div class="mn-footer-bottom">
+    <div class="mn-container">
+      <p>© 2026 <a href="https://peoplealsoask.github.io/">People Also Ask</a>. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+
+<a class="mn-back-top" href="#" aria-label="Back to top" title="Back to top">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"/></svg>
+</a>
+
+
+
+
+
+</body>
+</html>

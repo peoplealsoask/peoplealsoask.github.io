@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta CEO Coding Skills | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/meta-ceo-coding-skills/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/meta-ceo-coding-skills/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does Mark Zuckerberg Still Code? The Truth About Meta&#39;s CEO and Programming in 2026</title>
+      <link>https://peoplealsoask.github.io/does-mark-zuckerberg-still-code/</link>
+      <pubDate>Thu, 09 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/does-mark-zuckerberg-still-code/</guid>
+      <description>Mark Zuckerberg, CEO of Meta, started Facebook by coding himself. While he no longer writes production code, he occasionally codes for fun and remains knowledgeable. He actively participates in code reviews and architecture discussions.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel AI Assistant | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/excel-ai-assistant/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:47 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/excel-ai-assistant/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copilot in Excel: How to Activate Microsoft&#39;s AI Assistant (2026 Guide)</title>
+      <link>https://peoplealsoask.github.io/activate-copilot-excel-guide/</link>
+      <pubDate>Thu, 16 Apr 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/activate-copilot-excel-guide/</guid>
+      <description>To turn on Copilot in Excel, ensure you have a Microsoft 365 subscription (Business or Enterprise), update Excel to the latest version, then click the Copilot icon in the ribbon. If missing, check admin settings or enable via File &amp;gt; Options &amp;gt; Add-ins.</description>
+    </item>
+  </channel>
+</rss>

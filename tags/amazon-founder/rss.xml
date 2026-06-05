@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon-Founder | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/amazon-founder/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/amazon-founder/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering Jeff Bezos&#39; Coding Skills</title>
+      <link>https://peoplealsoask.github.io/is-jeff-bezos-a-good-coder/</link>
+      <pubDate>Sun, 10 May 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/is-jeff-bezos-a-good-coder/</guid>
+      <description>Jeff Bezos is a self-taught programmer with a strong foundation in computer science, but his coding skills are not as polished as those of a professional developer. He has been involved in various coding projects throughout his career, including the development of Amazon&amp;rsquo;s early systems.</description>
+    </item>
+  </channel>
+</rss>

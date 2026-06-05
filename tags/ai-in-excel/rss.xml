@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI in Excel | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/ai-in-excel/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/ai-in-excel/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking Excel&#39;s Full Potential: Can GPTExcel Write Complex Formulas?</title>
+      <link>https://peoplealsoask.github.io/can-gptexcel-write-complex-excel-formulas/</link>
+      <pubDate>Thu, 02 Apr 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/can-gptexcel-write-complex-excel-formulas/</guid>
+      <description>GPTExcel can indeed write complex Excel formulas, leveraging AI to simplify spreadsheet management and enhance data analysis. With its advanced capabilities, GPTExcel streamlines workflow efficiency and reduces errors in formula creation.</description>
+    </item>
+  </channel>
+</rss>

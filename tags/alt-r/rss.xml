@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alt-R | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/alt-r/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/alt-r/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock Windows Efficiency: Mastering the Alt&#43;R Shortcut</title>
+      <link>https://peoplealsoask.github.io/activate-windows-alt-r/</link>
+      <pubDate>Tue, 19 May 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/activate-windows-alt-r/</guid>
+      <description>The Alt+R shortcut in Windows is used to open the Run dialog box, allowing users to quickly execute commands, launch applications, and access system folders. This shortcut is essential for boosting productivity and streamlining tasks.</description>
+    </item>
+  </channel>
+</rss>
