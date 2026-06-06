@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:46 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:33 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/502-error/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking the Mystery of 502 Errors: Root Causes and Solutions</title>
+      <link>https://peoplealsoask.github.io/502-error-root-causes-and-solutions/</link>
+      <pubDate>Tue, 09 Jun 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/502-error-root-causes-and-solutions/</guid>
+      <description>A 502 error is a server error that occurs when a server acting as a gateway or proxy receives an invalid response from an upstream server, often due to overload, misconfiguration, or software bugs. Understanding the root cause is key to resolving the issue.</description>
+    </item>
     <item>
       <title>502 Bad Gateway Error: Is It You or the Server? Complete 2026 Troubleshooting</title>
       <link>https://peoplealsoask.github.io/502-bad-gateway-error-your-fault-or-server/</link>

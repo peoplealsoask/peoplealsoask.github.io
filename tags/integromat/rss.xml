@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integromat | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/integromat/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:36 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/integromat/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sync Google Calendar with Notion Database: The Ultimate Guide</title>
+      <link>https://peoplealsoask.github.io/sync-google-calendar-with-notion-database/</link>
+      <pubDate>Tue, 23 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/sync-google-calendar-with-notion-database/</guid>
+      <description>Syncing Google Calendar with Notion database allows for a unified view of your schedule and tasks, enabling efficient time management and organization. This guide provides a step-by-step approach to achieving this integration.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/excel/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:35 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/excel/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detecting ChatGPT in Excel: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/detecting-chatgpt-in-excel/</link>
+      <pubDate>Sun, 07 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/detecting-chatgpt-in-excel/</guid>
+      <description>ChatGPT can be detected in Excel through various methods, including analyzing writing style and using AI detection tools. Excel users can utilize these methods to identify potential AI-generated content.</description>
+    </item>
+  </channel>
+</rss>

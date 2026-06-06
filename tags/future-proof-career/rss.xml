@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future-Proof-Career | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/future-proof-career/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:36 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/future-proof-career/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Future-Proof Careers: 3 Jobs That Will Thrive in an AI-Driven World</title>
+      <link>https://peoplealsoask.github.io/jobs-that-will-survive-ai/</link>
+      <pubDate>Sat, 13 Jun 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/jobs-that-will-survive-ai/</guid>
+      <description>While AI is expected to automate many jobs, certain professions will continue to thrive, including data scientists, healthcare professionals, and creative professionals. These jobs require human skills like empathy, creativity, and complex problem-solving, making them less susceptible to automation.</description>
+    </item>
+  </channel>
+</rss>

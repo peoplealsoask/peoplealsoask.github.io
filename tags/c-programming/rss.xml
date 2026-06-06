@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Programming | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/c-programming/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:34 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/c-programming/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Love: A Step-by-Step Guide to Expressing &#39;I Love You&#39; in C</title>
+      <link>https://peoplealsoask.github.io/code-i-love-you-in-c/</link>
+      <pubDate>Fri, 19 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/code-i-love-you-in-c/</guid>
+      <description>To code &amp;lsquo;I love you&amp;rsquo; in C, you can use a combination of printf statements and ASCII art. The following code snippet demonstrates how to achieve this: printf(&amp;lsquo;I Love You&amp;rsquo;);</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft Excel Ai | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/microsoft-excel-ai/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:37 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/microsoft-excel-ai/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking AI in Excel: A Step-by-Step Guide</title>
+      <link>https://peoplealsoask.github.io/how-to-turn-on-ai-in-excel/</link>
+      <pubDate>Tue, 16 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/how-to-turn-on-ai-in-excel/</guid>
+      <description>To turn on AI in Excel, go to the &amp;lsquo;Data&amp;rsquo; tab, click on &amp;lsquo;From Other Sources&amp;rsquo;, and select &amp;lsquo;From Microsoft AI&amp;rsquo;. Alternatively, use the &amp;rsquo; Ideas&amp;rsquo; button in the &amp;lsquo;Home&amp;rsquo; tab to access AI-powered suggestions. Enable AI tools like &amp;lsquo;Text to Columns&amp;rsquo; or &amp;lsquo;Flash Fill&amp;rsquo; for data analysis and automation</description>
+    </item>
+  </channel>
+</rss>

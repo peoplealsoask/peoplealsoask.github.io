@@ -7,8 +7,50 @@
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:49 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:37 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/nginx/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolving NGINX 502 Bad Gateway Errors After OS Upgrade</title>
+      <link>https://peoplealsoask.github.io/resolve-nginx-502-bad-gateway-errors-os-upgrade/</link>
+      <pubDate>Mon, 22 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/resolve-nginx-502-bad-gateway-errors-os-upgrade/</guid>
+      <description>The NGINX 502 Bad Gateway error typically occurs when there&amp;rsquo;s an issue with the server acting as a gateway or proxy, often due to configuration problems or server overload. To resolve this error after an OS upgrade, review your server configuration and ensure that all services are properly restarted and configured.</description>
+    </item>
+    <item>
+      <title>Forcing SSL Redirects in Nginx: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/nginx-ssl-redirects/</link>
+      <pubDate>Sun, 21 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/nginx-ssl-redirects/</guid>
+      <description>To force or redirect to SSL in Nginx, you can use the return 301 directive or the rewrite module. This guide provides a step-by-step approach to implementing SSL redirects in Nginx, ensuring your website is secure and SEO-friendly.</description>
+    </item>
+    <item>
+      <title>Fixing 502 Bad Gateway in Nginx: Expert Solutions and Troubleshooting</title>
+      <link>https://peoplealsoask.github.io/fix-502-bad-gateway-nginx/</link>
+      <pubDate>Sat, 20 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/fix-502-bad-gateway-nginx/</guid>
+      <description>A 502 Bad Gateway error in Nginx occurs when the server acts as a gateway and receives an invalid response from an upstream server, fix it by checking server configuration, upstream server status, and adjusting buffer sizes</description>
+    </item>
+    <item>
+      <title>Troubleshooting NGINX Bad Gateway Errors: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/nginx-bad-gateway-error-troubleshooting/</link>
+      <pubDate>Thu, 18 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/nginx-bad-gateway-error-troubleshooting/</guid>
+      <description>To check and fix a bad gateway error in NGINX, inspect the server logs, verify the upstream server configuration, and ensure proper communication between NGINX and the upstream server. Common issues include incorrect proxy_pass directives, server overload, and network connectivity problems.</description>
+    </item>
+    <item>
+      <title>Diagnose and Fix 502 Bad Gateway Errors in NGINX</title>
+      <link>https://peoplealsoask.github.io/diagnose-and-fix-502-bad-gateway-errors-in-nginx/</link>
+      <pubDate>Tue, 16 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/diagnose-and-fix-502-bad-gateway-errors-in-nginx/</guid>
+      <description>A 502 Bad Gateway error in NGINX occurs when the server acts as a gateway and receives an invalid response from an upstream server, fix it by checking server configuration, upstream server status, and logs.</description>
+    </item>
+    <item>
+      <title>Checking NGINX Status in Ubuntu: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/checking-nginx-status-in-ubuntu/</link>
+      <pubDate>Sun, 14 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/checking-nginx-status-in-ubuntu/</guid>
+      <description>To check NGINX status in Ubuntu, use the command &amp;lsquo;sudo service nginx status&amp;rsquo; or &amp;lsquo;sudo systemctl status nginx&amp;rsquo; depending on your Ubuntu version. This will provide you with the current status of the NGINX server.</description>
+    </item>
     <item>
       <title>Update NGINX Server: A Step-by-Step Guide for Maximum Performance</title>
       <link>https://peoplealsoask.github.io/update-nginx-server-for-maximum-performance/</link>

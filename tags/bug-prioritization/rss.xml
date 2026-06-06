@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug Prioritization | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/bug-prioritization/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:34 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/bug-prioritization/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master the 80/20 Rule in Programming: Boost Productivity and Code Quality</title>
+      <link>https://peoplealsoask.github.io/master-80-20-rule-programming/</link>
+      <pubDate>Sat, 06 Jun 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/master-80-20-rule-programming/</guid>
+      <description>The 80/20 rule (Pareto Principle) in programming suggests that roughly 80% of effects come from 20% of causes. This means 80% of bugs hide in 20% of code, 80% of users only use 20% of features, and 80% of execution time is spent in 20% of the codebase.</description>
+    </item>
+  </channel>
+</rss>

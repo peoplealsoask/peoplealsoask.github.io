@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elon Musk | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/elon-musk/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:35 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/elon-musk/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elon Musk&#39;s Coding Journey: How He Learned to Code</title>
+      <link>https://peoplealsoask.github.io/elon-musk-learned-code/</link>
+      <pubDate>Sun, 14 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/elon-musk-learned-code/</guid>
+      <description>Elon Musk is a self-taught programmer who learned to code at the age of 12, and his early experiences with programming laid the foundation for his future success in the tech industry. Through dedication and perseverance, Musk developed a strong foundation in coding, which has been instrumental in his entrepreneurial ventures.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redirects | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/redirects/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:38 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/redirects/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Forcing SSL Redirects in Nginx: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/nginx-ssl-redirects/</link>
+      <pubDate>Sun, 21 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/nginx-ssl-redirects/</guid>
+      <description>To force or redirect to SSL in Nginx, you can use the return 301 directive or the rewrite module. This guide provides a step-by-step approach to implementing SSL redirects in Nginx, ensuring your website is secure and SEO-friendly.</description>
+    </item>
+  </channel>
+</rss>

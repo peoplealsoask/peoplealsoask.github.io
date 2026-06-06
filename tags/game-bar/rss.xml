@@ -1,14 +1,28 @@
 &lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game Bar | People Also Ask</title>
+    <title>Game-Bar | People Also Ask</title>
     <link>https://peoplealsoask.github.io/tags/game-bar/</link>
     <description>People Also ask and we have answer.</description>
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:48 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:36 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/game-bar/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking Windows 10&#39;s Hidden Screen Recorder</title>
+      <link>https://peoplealsoask.github.io/windows-10-screen-recorder/</link>
+      <pubDate>Tue, 16 Jun 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/windows-10-screen-recorder/</guid>
+      <description>Windows 10 has a built-in screen recorder called Game Bar, which can be used to record screen activity. The feature is primarily designed for gamers but can be used for other purposes as well.</description>
+    </item>
+    <item>
+      <title>Enable Screen Recording on Windows 10 like a Pro</title>
+      <link>https://peoplealsoask.github.io/enable-screen-recording-windows-10/</link>
+      <pubDate>Sun, 07 Jun 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/enable-screen-recording-windows-10/</guid>
+      <description>To enable screen recording on Windows 10, use the built-in Game Bar or third-party software, allowing you to capture your screen with ease and precision. This guide will walk you through the process, ensuring you&amp;rsquo;re recording like a pro in no time.</description>
+    </item>
     <item>
       <title>Solving Screen Recording Issues on Windows 10</title>
       <link>https://peoplealsoask.github.io/windows-10-screen-recording-issues/</link>

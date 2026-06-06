@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Print Screen | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/print-screen/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:38 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/print-screen/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Screenshot Capture on PC Keyboard</title>
+      <link>https://peoplealsoask.github.io/how-to-take-screenshot-on-pc-keyboard/</link>
+      <pubDate>Sat, 13 Jun 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/how-to-take-screenshot-on-pc-keyboard/</guid>
+      <description>To take a screenshot on a PC, press the Print Screen button or use the Windows key + Print Screen. For a partial screenshot, use Alt + Print Screen. These methods capture your screen and save it to the clipboard or a file.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Coding | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/ai-coding/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:33 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/ai-coding/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering Claude&#39;s Coding Prowess</title>
+      <link>https://peoplealsoask.github.io/why-claude-is-good-at-coding/</link>
+      <pubDate>Sat, 20 Jun 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/why-claude-is-good-at-coding/</guid>
+      <description>Claude&amp;rsquo;s coding excellence stems from its advanced AI architecture and rigorous training on diverse coding tasks, enabling it to learn from experience and adapt to new challenges. This unique combination of cutting-edge technology and extensive training data allows Claude to excel in coding tasks, making it an invaluable tool for developers and programmers.</description>
+    </item>
+  </channel>
+</rss>

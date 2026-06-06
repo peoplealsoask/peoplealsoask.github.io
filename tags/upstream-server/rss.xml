@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upstream Server | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/upstream-server/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/upstream-server/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagnose and Fix 502 Bad Gateway Errors in NGINX</title>
+      <link>https://peoplealsoask.github.io/diagnose-and-fix-502-bad-gateway-errors-in-nginx/</link>
+      <pubDate>Tue, 16 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/diagnose-and-fix-502-bad-gateway-errors-in-nginx/</guid>
+      <description>A 502 Bad Gateway error in NGINX occurs when the server acts as a gateway and receives an invalid response from an upstream server, fix it by checking server configuration, upstream server status, and logs.</description>
+    </item>
+  </channel>
+</rss>

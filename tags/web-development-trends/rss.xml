@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development Trends | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/web-development-trends/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/web-development-trends/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Great WordPress Exodus: Why Users Are Flocking to Alternative Platforms</title>
+      <link>https://peoplealsoask.github.io/why-people-are-moving-away-from-wordpress/</link>
+      <pubDate>Fri, 19 Jun 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/why-people-are-moving-away-from-wordpress/</guid>
+      <description>People are moving away from WordPress due to concerns over security, performance, and flexibility, seeking more modern and user-friendly alternatives. The shift is driven by the need for better integration with emerging technologies and improved user experience.</description>
+    </item>
+  </channel>
+</rss>

@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/server-errors/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixing 502 Bad Gateway in Nginx: Expert Solutions and Troubleshooting</title>
+      <link>https://peoplealsoask.github.io/fix-502-bad-gateway-nginx/</link>
+      <pubDate>Sat, 20 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/fix-502-bad-gateway-nginx/</guid>
+      <description>A 502 Bad Gateway error in Nginx occurs when the server acts as a gateway and receives an invalid response from an upstream server, fix it by checking server configuration, upstream server status, and adjusting buffer sizes</description>
+    </item>
+    <item>
+      <title>Solving 502 Bad Gateway Errors: Expert Troubleshooting Guide</title>
+      <link>https://peoplealsoask.github.io/fix-502-bad-gateway-error/</link>
+      <pubDate>Sat, 20 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/fix-502-bad-gateway-error/</guid>
+      <description>The 502 Bad Gateway error is a server-side issue that occurs when a server acts as a gateway or proxy and receives an invalid response from an upstream server, often due to network errors, server overload, or software bugs. To fix it, identify the root cause and apply targeted solutions such as checking server status, verifying network connectivity, and optimizing server configurations.</description>
+    </item>
     <item>
       <title>Demystifying 502 Bad Gateway Errors: Causes, Consequences, and Solutions</title>
       <link>https://peoplealsoask.github.io/502-bad-gateway-error-causes-and-solutions/</link>

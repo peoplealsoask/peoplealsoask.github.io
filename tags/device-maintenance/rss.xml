@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Device Maintenance | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/device-maintenance/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:35 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/device-maintenance/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Your Photos Are Taking Up So Much Space and How to Clean It Up</title>
+      <link>https://peoplealsoask.github.io/photos-taking-up-space/</link>
+      <pubDate>Thu, 18 Jun 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/photos-taking-up-space/</guid>
+      <description>Photos can take up a significant amount of space due to high resolution and duplicate files, but cleaning them up can be done by deleting duplicates, compressing files, and using cloud storage. Regularly organizing your photos can help maintain your device&amp;rsquo;s storage capacity and improve performance.</description>
+    </item>
+  </channel>
+</rss>

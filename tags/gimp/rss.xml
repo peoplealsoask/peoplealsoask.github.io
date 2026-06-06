@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIMP | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/gimp/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:36 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/gimp/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncover the Best 100% Free Photo Editors for Unparalleled Creativity</title>
+      <link>https://peoplealsoask.github.io/best-free-photo-editors/</link>
+      <pubDate>Wed, 17 Jun 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/best-free-photo-editors/</guid>
+      <description>GIMP and Canva are highly-regarded 100% free photo editors offering professional-grade features. They cater to various needs, from basic adjustments to complex manipulations, making them ideal for both beginners and professionals.</description>
+    </item>
+  </channel>
+</rss>

@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/time-management/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate Google Calendar Like a Pro</title>
+      <link>https://peoplealsoask.github.io/automate-google-calendar/</link>
+      <pubDate>Wed, 17 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/automate-google-calendar/</guid>
+      <description>Automating Google Calendar involves using tools like Zapier, IFTTT, or Google Apps Script to streamline tasks and save time. With automation, you can synchronize events, set reminders, and manage invitations efficiently.</description>
+    </item>
     <item>
       <title>Unpacking Notion Calendar: Is it the Same as Notion?</title>
       <link>https://peoplealsoask.github.io/notion-calendar-vs-notion/</link>

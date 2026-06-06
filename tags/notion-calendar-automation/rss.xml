@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notion Calendar Automation | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/notion-calendar-automation/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:38 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/notion-calendar-automation/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating Your Notion Calendar: A Step-by-Step Guide</title>
+      <link>https://peoplealsoask.github.io/automate-notion-calendar/</link>
+      <pubDate>Thu, 18 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/automate-notion-calendar/</guid>
+      <description>Automating your Notion calendar streamlines tasks and enhances productivity. By integrating templates and formulas, you can create a customized calendar system that suits your needs.</description>
+    </item>
+  </channel>
+</rss>

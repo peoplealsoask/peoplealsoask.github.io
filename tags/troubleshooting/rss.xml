@@ -7,8 +7,71 @@
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/troubleshooting/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolving NGINX 502 Bad Gateway Errors After OS Upgrade</title>
+      <link>https://peoplealsoask.github.io/resolve-nginx-502-bad-gateway-errors-os-upgrade/</link>
+      <pubDate>Mon, 22 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/resolve-nginx-502-bad-gateway-errors-os-upgrade/</guid>
+      <description>The NGINX 502 Bad Gateway error typically occurs when there&amp;rsquo;s an issue with the server acting as a gateway or proxy, often due to configuration problems or server overload. To resolve this error after an OS upgrade, review your server configuration and ensure that all services are properly restarted and configured.</description>
+    </item>
+    <item>
+      <title>Google Calendar Sync Issues Resolved: Expert Troubleshooting Guide</title>
+      <link>https://peoplealsoask.github.io/google-calendar-sync-issues-troubleshooting-guide/</link>
+      <pubDate>Sun, 21 Jun 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/google-calendar-sync-issues-troubleshooting-guide/</guid>
+      <description>If your calendar isn&amp;rsquo;t syncing with Google Calendar, it may be due to incorrect settings, outdated apps, or conflicting accounts. Check your settings and try troubleshooting steps to resolve the issue.</description>
+    </item>
+    <item>
+      <title>Fixing 502 Bad Gateway in Nginx: Expert Solutions and Troubleshooting</title>
+      <link>https://peoplealsoask.github.io/fix-502-bad-gateway-nginx/</link>
+      <pubDate>Sat, 20 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/fix-502-bad-gateway-nginx/</guid>
+      <description>A 502 Bad Gateway error in Nginx occurs when the server acts as a gateway and receives an invalid response from an upstream server, fix it by checking server configuration, upstream server status, and adjusting buffer sizes</description>
+    </item>
+    <item>
+      <title>Solving 502 Bad Gateway Errors: Expert Troubleshooting Guide</title>
+      <link>https://peoplealsoask.github.io/fix-502-bad-gateway-error/</link>
+      <pubDate>Sat, 20 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/fix-502-bad-gateway-error/</guid>
+      <description>The 502 Bad Gateway error is a server-side issue that occurs when a server acts as a gateway or proxy and receives an invalid response from an upstream server, often due to network errors, server overload, or software bugs. To fix it, identify the root cause and apply targeted solutions such as checking server status, verifying network connectivity, and optimizing server configurations.</description>
+    </item>
+    <item>
+      <title>Troubleshooting NGINX Bad Gateway Errors: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/nginx-bad-gateway-error-troubleshooting/</link>
+      <pubDate>Thu, 18 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/nginx-bad-gateway-error-troubleshooting/</guid>
+      <description>To check and fix a bad gateway error in NGINX, inspect the server logs, verify the upstream server configuration, and ensure proper communication between NGINX and the upstream server. Common issues include incorrect proxy_pass directives, server overload, and network connectivity problems.</description>
+    </item>
+    <item>
+      <title>Forcing Google Calendar Sync: Troubleshooting and Solutions</title>
+      <link>https://peoplealsoask.github.io/force-google-calendar-sync/</link>
+      <pubDate>Mon, 15 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/force-google-calendar-sync/</guid>
+      <description>To force Google Calendar to sync, try restarting the app, checking your internet connection, and ensuring that sync is enabled. For more complex issues, reset the app or contact support.</description>
+    </item>
+    <item>
+      <title>Clearing Cache: The Ultimate Fix for Gateway Errors</title>
+      <link>https://peoplealsoask.github.io/clearing-cache-gateway-errors/</link>
+      <pubDate>Thu, 11 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/clearing-cache-gateway-errors/</guid>
+      <description>Clearing cache can often resolve gateway errors by removing outdated or corrupted data, but it&amp;rsquo;s not a universal fix. Understanding the root cause is key to a lasting solution.</description>
+    </item>
+    <item>
+      <title>Unlocking the Mystery of 502 Bad Gateway: Are You Really Blocked?</title>
+      <link>https://peoplealsoask.github.io/what-does-502-bad-gateway-mean/</link>
+      <pubDate>Thu, 11 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/what-does-502-bad-gateway-mean/</guid>
+      <description>A 502 Bad Gateway error doesn&amp;rsquo;t necessarily mean you&amp;rsquo;re blocked, but rather indicates a problem with the server acting as a gateway. It&amp;rsquo;s crucial to understand the difference to resolve the issue effectively.</description>
+    </item>
+    <item>
+      <title>Solving Windows Alt&#43;R Not Working: Expert Troubleshooting Guide</title>
+      <link>https://peoplealsoask.github.io/windows-alt-r-not-working/</link>
+      <pubDate>Sat, 06 Jun 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/windows-alt-r-not-working/</guid>
+      <description>The Windows Alt+R shortcut not working can be due to keyboard issues, shortcut conflicts, or system file corruption. Troubleshooting these common causes can resolve the problem.</description>
+    </item>
     <item>
       <title>Solving Ctrl&#43;Shift&#43;S Issues: Troubleshooting Guide</title>
       <link>https://peoplealsoask.github.io/ctrl-shift-s-not-working/</link>

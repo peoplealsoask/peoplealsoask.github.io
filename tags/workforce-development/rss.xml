@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workforce Development | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/workforce-development/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:40 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/workforce-development/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Did Joe Biden Say Learn to Code: Unpacking the Controversy</title>
+      <link>https://peoplealsoask.github.io/joe-biden-learn-to-code-controversy/</link>
+      <pubDate>Wed, 10 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/joe-biden-learn-to-code-controversy/</guid>
+      <description>Joe Biden never directly said &amp;rsquo;learn to code&amp;rsquo; as a dismissive statement to workers who lost their jobs due to automation, but his comments on the importance of coding skills have been taken out of context. The controversy surrounding his views on coding as a solution to job displacement has been highly debated.</description>
+    </item>
+  </channel>
+</rss>

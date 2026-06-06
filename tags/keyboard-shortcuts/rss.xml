@@ -1,14 +1,21 @@
 &lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keyboard-Shortcuts | People Also Ask</title>
+    <title>Keyboard Shortcuts | People Also Ask</title>
     <link>https://peoplealsoask.github.io/tags/keyboard-shortcuts/</link>
     <description>People Also ask and we have answer.</description>
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:48 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:37 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/keyboard-shortcuts/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering the Truth: Is F12 a Screenshot?</title>
+      <link>https://peoplealsoask.github.io/is-f12-a-screenshot/</link>
+      <pubDate>Sun, 14 Jun 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/is-f12-a-screenshot/</guid>
+      <description>The F12 key is not a screenshot function by default, but it can be used to access the developer tools in most browsers, which can help with capturing screenshots. The Print Screen button is usually the default key for capturing screenshots.</description>
+    </item>
     <item>
       <title>Solving Ctrl&#43;Shift&#43;S Issues: Troubleshooting Guide</title>
       <link>https://peoplealsoask.github.io/ctrl-shift-s-not-working/</link>

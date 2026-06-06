@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/server-error/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking the Mystery of 502 Bad Gateway: Are You Really Blocked?</title>
+      <link>https://peoplealsoask.github.io/what-does-502-bad-gateway-mean/</link>
+      <pubDate>Thu, 11 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/what-does-502-bad-gateway-mean/</guid>
+      <description>A 502 Bad Gateway error doesn&amp;rsquo;t necessarily mean you&amp;rsquo;re blocked, but rather indicates a problem with the server acting as a gateway. It&amp;rsquo;s crucial to understand the difference to resolve the issue effectively.</description>
+    </item>
+    <item>
+      <title>Unlocking the Mystery of 502 Errors: Root Causes and Solutions</title>
+      <link>https://peoplealsoask.github.io/502-error-root-causes-and-solutions/</link>
+      <pubDate>Tue, 09 Jun 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/502-error-root-causes-and-solutions/</guid>
+      <description>A 502 error is a server error that occurs when a server acting as a gateway or proxy receives an invalid response from an upstream server, often due to overload, misconfiguration, or software bugs. Understanding the root cause is key to resolving the issue.</description>
+    </item>
     <item>
       <title>Solving 502 Bad Gateway: Expert Guide to Fixing the Issue</title>
       <link>https://peoplealsoask.github.io/solve-502-bad-gateway-error/</link>

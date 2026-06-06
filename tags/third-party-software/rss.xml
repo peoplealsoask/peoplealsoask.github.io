@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Third-Party Software | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/third-party-software/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/third-party-software/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enable Screen Recording on Windows 10 like a Pro</title>
+      <link>https://peoplealsoask.github.io/enable-screen-recording-windows-10/</link>
+      <pubDate>Sun, 07 Jun 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/enable-screen-recording-windows-10/</guid>
+      <description>To enable screen recording on Windows 10, use the built-in Game Bar or third-party software, allowing you to capture your screen with ease and precision. This guide will walk you through the process, ensuring you&amp;rsquo;re recording like a pro in no time.</description>
+    </item>
+  </channel>
+</rss>

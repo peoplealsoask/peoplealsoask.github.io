@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content-Generation | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/content-generation/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:35 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/content-generation/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Sonnet vs GPT: The Ultimate Showdown in AI-Powered Writing Tools</title>
+      <link>https://peoplealsoask.github.io/claude-sonnet-vs-gpt-ai-writing-tools/</link>
+      <pubDate>Thu, 25 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/claude-sonnet-vs-gpt-ai-writing-tools/</guid>
+      <description>Claude Sonnet and GPT are both powerful AI writing tools, but they cater to different needs and offer distinct features. Claude Sonnet excels in creative writing, while GPT dominates in content generation and conversational AI.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation-Platform | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/automation-platform/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:34 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/automation-platform/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make.com WhatsApp Integration: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/make-com-whatsapp-integration-guide/</link>
+      <pubDate>Fri, 12 Jun 2026 08:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/make-com-whatsapp-integration-guide/</guid>
+      <description>Make.com offers WhatsApp integration through its platform, allowing users to automate workflows and connect with customers seamlessly. This integration enables businesses to streamline their communication processes and improve customer engagement.</description>
+    </item>
+  </channel>
+</rss>

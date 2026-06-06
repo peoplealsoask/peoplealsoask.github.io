@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en_US</language>
     <managingEditor> (Fablo)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 15:47:50 &#43;0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
     <atom:link href="https://peoplealsoask.github.io/tags/web-performance-optimization/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Core Web Vitals Assessment Failed: Next Steps and Solutions</title>
+      <link>https://peoplealsoask.github.io/google-core-web-vitals-assessment-failed/</link>
+      <pubDate>Fri, 12 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/google-core-web-vitals-assessment-failed/</guid>
+      <description>If your website fails the Google Core Web Vitals assessment, it&amp;rsquo;s crucial to identify and fix performance issues to improve user experience and search engine rankings. This involves optimizing metrics like Largest Contentful Paint, First Input Delay, and Cumulative Layout Shift.</description>
+    </item>
     <item>
       <title>Update NGINX Server: A Step-by-Step Guide for Maximum Performance</title>
       <link>https://peoplealsoask.github.io/update-nginx-server-for-maximum-performance/</link>

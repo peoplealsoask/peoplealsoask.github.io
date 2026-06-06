@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image Editing | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/image-editing/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:36 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/image-editing/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Screen Capture: A Step-by-Step Guide to Creating Screenshots</title>
+      <link>https://peoplealsoask.github.io/how-to-create-a-screenshot/</link>
+      <pubDate>Mon, 22 Jun 2026 09:16:52 &#43;0700</pubDate>
+      <guid>https://peoplealsoask.github.io/how-to-create-a-screenshot/</guid>
+      <description>To create a screenshot, press the Print Screen button on Windows or Command + Shift + 4 on Mac, then edit and save the image. For mobile devices, press the Power and Volume-down buttons simultaneously on Android or the Sleep/Wake and Home buttons on iPhone.</description>
+    </item>
+  </channel>
+</rss>

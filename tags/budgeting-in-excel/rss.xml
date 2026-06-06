@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Budgeting in Excel | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/budgeting-in-excel/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:34 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/budgeting-in-excel/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 50/30/20 Rule in Excel: A Step-by-Step Guide to Financial Freedom (2026)</title>
+      <link>https://peoplealsoask.github.io/50-30-20-rule-excel-guide/</link>
+      <pubDate>Sat, 06 Jun 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/50-30-20-rule-excel-guide/</guid>
+      <description>The 50/30/20 rule divides after-tax income into needs (50%), wants (30%), and savings (20%). In Excel, you can set up a budget spreadsheet with formulas to automatically calculate and track these categories, helping you manage money effectively.</description>
+    </item>
+  </channel>
+</rss>

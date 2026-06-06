@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bert | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/bert/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:34 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/bert/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlocking the Power of Free AI Models: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/free-ai-models-ultimate-guide/</link>
+      <pubDate>Sun, 14 Jun 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/free-ai-models-ultimate-guide/</guid>
+      <description>The Hugging Face Transformers library offers a wide range of totally free AI models, including popular ones like BERT and RoBERTa. These models can be used for various tasks such as natural language processing and computer vision.</description>
+    </item>
+  </channel>
+</rss>

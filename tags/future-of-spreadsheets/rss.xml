@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Future-of-Spreadsheets | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/future-of-spreadsheets/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:36 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/future-of-spreadsheets/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will AI Replace Excel: Separating Fact from Fiction</title>
+      <link>https://peoplealsoask.github.io/ai-replace-excel/</link>
+      <pubDate>Thu, 25 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/ai-replace-excel/</guid>
+      <description>AI is not likely to replace Excel entirely, but it will significantly change how we use spreadsheets. AI-powered tools will augment human capabilities, automating repetitive tasks and enhancing data analysis.</description>
+    </item>
+  </channel>
+</rss>

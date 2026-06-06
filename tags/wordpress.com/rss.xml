@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress.com | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/wordpress.com/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:40 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/wordpress.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress Shutdown Rumors: Separating Fact from Fiction</title>
+      <link>https://peoplealsoask.github.io/wordpress-shutdown-rumors/</link>
+      <pubDate>Sun, 28 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/wordpress-shutdown-rumors/</guid>
+      <description>WordPress is not shutting down, with the platform continuing to evolve and improve under the guidance of its community and Automattic, the company behind WordPress.com.</description>
+    </item>
+  </channel>
+</rss>

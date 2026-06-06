@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude Versions | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/claude-versions/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:34 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/claude-versions/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing the Best Claude for Coding: A Comprehensive Guide</title>
+      <link>https://peoplealsoask.github.io/best-claude-for-coding/</link>
+      <pubDate>Mon, 15 Jun 2026 06:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/best-claude-for-coding/</guid>
+      <description>The best Claude for coding depends on your specific needs and preferences, with options ranging from beginner-friendly to advanced. Claude 2 is a popular choice among developers due to its ease of use and extensive library support.</description>
+    </item>
+  </channel>
+</rss>

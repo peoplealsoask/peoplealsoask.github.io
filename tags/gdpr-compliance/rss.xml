@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDPR Compliance | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/gdpr-compliance/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:36 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/gdpr-compliance/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WhatsApp Bots Legality Explained</title>
+      <link>https://peoplealsoask.github.io/whatsapp-bots-legal/</link>
+      <pubDate>Sun, 07 Jun 2026 00:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/whatsapp-bots-legal/</guid>
+      <description>WhatsApp bots are generally legal, but their usage must comply with WhatsApp&amp;rsquo;s terms of service and data protection laws. Misuse can lead to account bans or legal action.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghost | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/ghost/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:36 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/ghost/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Website Building: What&#39;s Replacing WordPress?</title>
+      <link>https://peoplealsoask.github.io/whats-replacing-wordpress/</link>
+      <pubDate>Fri, 05 Jun 2026 18:20:21 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/whats-replacing-wordpress/</guid>
+      <description>WordPress is being replaced by newer, more efficient website builders like Ghost, Shopify, and Webflow, offering enhanced security, speed, and ease of use. These alternatives cater to different needs, from blogging to e-commerce, and are gaining popularity among developers and users alike.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whatsapp Marketing | People Also Ask</title>
+    <link>https://peoplealsoask.github.io/tags/whatsapp-marketing/</link>
+    <description>People Also ask and we have answer.</description>
+    <generator>Hugo</generator>
+    <language>en_US</language>
+    <managingEditor> (Fablo)</managingEditor>
+    <lastBuildDate>Sat, 06 Jun 2026 17:03:39 &#43;0700</lastBuildDate>
+    <atom:link href="https://peoplealsoask.github.io/tags/whatsapp-marketing/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WhatsApp Messaging at Scale: A Comprehensive Guide to Sending 100,000 Messages</title>
+      <link>https://peoplealsoask.github.io/whatsapp-messaging-at-scale/</link>
+      <pubDate>Mon, 22 Jun 2026 16:23:51 &#43;0000</pubDate>
+      <guid>https://peoplealsoask.github.io/whatsapp-messaging-at-scale/</guid>
+      <description>To send 100,000 WhatsApp messages, utilize the WhatsApp Business API, which allows for automated and bulk messaging through approved business service providers, ensuring compliance with WhatsApp&amp;rsquo;s policies.</description>
+    </item>
+  </channel>
+</rss>
